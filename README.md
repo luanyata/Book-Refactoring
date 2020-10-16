@@ -1,4 +1,4 @@
-# Guia Rápido com Extrategia de Refatoração
+# Guia Rápido com Estratégia de Refatoração
 
 ## Extração de Função (Extract Function):
 
